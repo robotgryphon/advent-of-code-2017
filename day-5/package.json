@@ -1,0 +1,19 @@
+{
+  "name": "day-5",
+  "version": "1.0.0",
+  "description": "Advent Day 5",
+  "main": "script.ts",
+  "scripts": {
+    "watch": "tsc --watch -p ./tsconfig.json",
+    "start": "node dist/script.js"
+  },
+  "author": "@robotgryphon",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fs-extra": "^5.0.0",
+    "@types/node": "^8.5.1"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  }
+}
