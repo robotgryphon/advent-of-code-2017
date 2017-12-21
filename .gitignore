@@ -1,4 +1,9 @@
+.vscode/
+
+# Java/Typescript
 dist/
 node_modules/
 
-.vscode/
+# .NET
+bin/
+obj/
